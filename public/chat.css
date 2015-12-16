@@ -1,0 +1,6 @@
+li.confirmed::after {
+  background: url(http://cdn.dustball.com/accept.png);
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+}
